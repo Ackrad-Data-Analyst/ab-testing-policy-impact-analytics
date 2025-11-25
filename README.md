@@ -125,6 +125,22 @@ Based on these numbers:
 
 *(Replace `[RATE_A]`, `[RATE_B]`, and `[DIFFERENCE]` with your actual values.)*
 
+### Key Metrics (from this experiment)
+
+| Variant | Visits | Conversions | Conversion rate |
+|---------|--------|------------:|----------------:|
+| A       | 50     | 29          | 58%             |
+| B       | 50     | 35          | 70%             |
+
+Overall across both variants:
+
+- **Total visits:** 100  
+- **Total conversions:** 64  
+- **Overall conversion rate:** 64%
+
+In simple terms: Version **B** converted **12 percentage points** better than Version **A** in this sample (70% vs 58%).
+
+
 ---
 
 ## 6. Business Impact
