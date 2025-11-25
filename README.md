@@ -38,6 +38,19 @@ For this project I put together a small, but complete, workflow:
 
 Together, these pieces show that I can move comfortably between **data**, **code**, **Excel**, and **business questions**.
 
+## 3. What I Built (Overview)
+
+This is a small but complete workflow:
+
+- ✅ A structured **experiment dataset**:  
+  [`data/ab_test_results.csv`](data/ab_test_results.csv)
+- ✅ A **database schema** and **SQL analysis queries**:  
+  [`sql/schema.sql`](sql/schema.sql), [`sql/queries.sql`](sql/queries.sql)
+- ✅ A manager-friendly **Excel A/B calculator**:  
+  [`excel/ab_test_calculator.xlsx`](excel/ab_test_calculator.xlsx)
+- ✅ A **Python analysis script** using `pandas`:  
+  [`notebooks/ab_test_analysis.py`](notebooks/ab_test_analysis.py)
+
 ---
 
 ## 3. Data
